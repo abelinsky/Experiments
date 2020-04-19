@@ -1,1 +1,3 @@
-First in chapter 2
+First in chapter 2.
+
+Line added in second branch.
